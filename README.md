@@ -12,15 +12,7 @@ This project helps users track tasks, set priorities, mark tasks as done/undone,
 3. [Installation](#installation)  
    - [Prerequisites](#prerequisites)  
    - [Setup](#setup)  
-4. [Usage](#usage)  
-5. [Project Structure](#project-structure)  
-6. [Configuration](#configuration)  
-7. [Testing](#testing)  
-8. [Contributing](#contributing)  
-9. [License](#license)  
-10. [Acknowledgements](#acknowledgements)
 
----
 
 ## Features
 
