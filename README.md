@@ -8,18 +8,17 @@ This project helps users track tasks, set priorities, mark tasks as done/undone,
 ## Table of Contents
 
 1. [Features](#features)  
-2. [Demo / Screenshots](#demo--screenshots)  
-3. [Tech Stack](#tech-stack)  
-4. [Installation](#installation)  
+2. [Tech Stack](#tech-stack)  
+3. [Installation](#installation)  
    - [Prerequisites](#prerequisites)  
    - [Setup](#setup)  
-5. [Usage](#usage)  
-6. [Project Structure](#project-structure)  
-7. [Configuration](#configuration)  
-8. [Testing](#testing)  
-9. [Contributing](#contributing)  
-10. [License](#license)  
-11. [Acknowledgements](#acknowledgements)
+4. [Usage](#usage)  
+5. [Project Structure](#project-structure)  
+6. [Configuration](#configuration)  
+7. [Testing](#testing)  
+8. [Contributing](#contributing)  
+9. [License](#license)  
+10. [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -36,16 +35,6 @@ _(You can tailor this list to your actual implemented features.)_
 
 ---
 
-## Demo / Screenshots
-
-Add screenshots or GIFs here to show the app in action.
-
-Example:
-
-![Screenshot 1](path/to/screenshot1.png)  
-![Screenshot 2](path/to/screenshot2.png)
-
----
 
 ## Tech Stack
 
