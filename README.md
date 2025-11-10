@@ -1,30 +1,86 @@
-# Todo app with CRUD
+# To-Do-App
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A simple and intuitive to-do list application built by **Sushant**.  
+This project helps users track tasks, set priorities, mark tasks as done/undone, and organise daily to-dos with a clean UI.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sushantkumar20102-1872s-projects/v0-todo-app-with-crud)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/gD3FyykzzeU)
+---
 
-## Overview
+## Table of Contents
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+1. [Features](#features)  
+2. [Demo / Screenshots](#demo--screenshots)  
+3. [Tech Stack](#tech-stack)  
+4. [Installation](#installation)  
+   - [Prerequisites](#prerequisites)  
+   - [Setup](#setup)  
+5. [Usage](#usage)  
+6. [Project Structure](#project-structure)  
+7. [Configuration](#configuration)  
+8. [Testing](#testing)  
+9. [Contributing](#contributing)  
+10. [License](#license)  
+11. [Acknowledgements](#acknowledgements)
 
-## Deployment
+---
 
-Your project is live at:
+## Features
 
-**[https://vercel.com/sushantkumar20102-1872s-projects/v0-todo-app-with-crud](https://vercel.com/sushantkumar20102-1872s-projects/v0-todo-app-with-crud)**
+- ✅ Add new tasks with title and optional description  
+- 🔄 Mark tasks as completed or revert them to pending  
+- 📌 Edit or delete existing tasks  
+- ✏️ Set priority or due-date (optional, if implemented)  
+- 🧠 Filter / sort tasks by status, priority, or date  
+- 🧩 Responsive UI (works on desktop and mobile)  
 
-## Build your app
+_(You can tailor this list to your actual implemented features.)_
 
-Continue building your app on:
+---
 
-**[https://v0.app/chat/gD3FyykzzeU](https://v0.app/chat/gD3FyykzzeU)**
+## Demo / Screenshots
 
-## How It Works
+Add screenshots or GIFs here to show the app in action.
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Example:
+
+![Screenshot 1](path/to/screenshot1.png)  
+![Screenshot 2](path/to/screenshot2.png)
+
+---
+
+## Tech Stack
+
+- **Frontend**: [React](https://reactjs.org/) (or whatever you used)  
+- **Backend**: [Node.js](https://nodejs.org/) + [Express](https://expressjs.com/) (if applicable)  
+- **Database**: [MongoDB](https://www.mongodb.com/) / [SQLite](https://www.sqlite.org/) / etc  
+- **Styling / UI**: CSS3, Flexbox, (or Tailwind, Bootstrap…)  
+- **State Management**: (e.g., Redux, Context API)  
+- **Other**: (e.g., JWT auth, REST API, Webpack, Babel…)
+
+---
+
+## Installation
+
+### Prerequisites
+
+- Node.js (version ≥ X.X.X)  
+- npm or yarn  
+- MongoDB installed (if using it)  
+- Git (optional, for cloning)
+
+### Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/Sushant1407/To-Do-App.git
+cd To-Do-App
+
+# Install dependencies
+npm install   # or yarn install
+
+# Create a .env file (if needed) and add configuration
+# Example:
+# PORT=5000
+# MONGODB_URI=your_mongodb_connection_string
+
+# Start the application
+npm run dev     # or npm start
